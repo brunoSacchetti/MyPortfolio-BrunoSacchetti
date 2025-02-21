@@ -23,8 +23,6 @@ Tecnologías utilizadas:
 Backend: Spring Boot, Java, SQL
 Autenticación: Auth0
 Facturación: Generación automática de facturas en formato PDF
-Demo:
-Visitar Proyecto (Agrega aquí el enlace si tienes una demo en vivo)
 
 Dashboard Administrativo - El Buen Sabor
 Descripción:
@@ -32,11 +30,9 @@ Una herramienta administrativa integral para la gestión del negocio. Los admini
 
 Tecnologías utilizadas:
 
-Frontend: React, JavaScript
+Frontend: React, Typescript, HTML, CSS
 Backend: Spring Boot, C#
 Autenticación: Auth0
-Demo:
-Visitar Proyecto (Agrega aquí el enlace si tienes una demo en vivo)
 
 Calculadora de Ecuaciones Matemáticas - C#
 Descripción:
@@ -46,8 +42,6 @@ Tecnologías utilizadas:
 
 Lenguaje: C#
 Interfaz: WinForms
-Demo:
-Visitar Proyecto (Agrega aquí el enlace si tienes una demo en vivo)
 
 🛠 Tecnologías y Herramientas
 A lo largo de mis proyectos, he trabajado con una amplia variedad de tecnologías. Algunas de las que más disfruto utilizando son:

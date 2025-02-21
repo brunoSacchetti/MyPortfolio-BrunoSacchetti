@@ -11,7 +11,6 @@ Soy un Desarrollador Web Fullstack con un enfoque en backend y frontend. Tengo e
 Resolver problemas de manera eficiente.
 Desarrollar experiencias de usuario intuitivas.
 Crear soluciones digitales que marquen la diferencia.
-Si deseas saber más, puedes descargar mi [CV](./CV/CV-BRUNO SACCHETTI-2025.pdf).
 
 🌟 Proyectos Destacados
 El Buen Sabor - E-commerce Culinario

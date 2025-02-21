@@ -1,9 +1,9 @@
-🚀 Portfolio de Bruno Sacchetti
+# 🚀 Portfolio de Bruno Sacchetti
 Bienvenido a mi portfolio, donde podrás conocer más acerca de mi trabajo como Desarrollador Web Fullstack. Aquí te presento una muestra de mis proyectos más destacados, donde utilizo tecnologías modernas y soluciones innovadoras para resolver desafíos digitales.
 
 ¡Vamos a construir algo increíble juntos!
 
-🧑‍💻 Sobre mí
+# 🧑‍💻 Sobre mí
 Soy un Desarrollador Web Fullstack con un enfoque en backend y frontend. Tengo experiencia construyendo soluciones escalables y dinámicas utilizando tecnologías como React, Node.js, Spring Boot, entre otras. Además, tengo un enfoque claro en la calidad del código, el aprendizaje constante y la capacidad para adaptarme a diferentes entornos de trabajo.
 
 ¿Qué me motiva?
@@ -12,7 +12,7 @@ Resolver problemas de manera eficiente.
 Desarrollar experiencias de usuario intuitivas.
 Crear soluciones digitales que marquen la diferencia.
 
-🌟 Proyectos Destacados
+#🌟 Proyectos Destacados
 El Buen Sabor - E-commerce Culinario
 Descripción:
 Una plataforma de e-commerce creada para ofrecer a los usuarios una experiencia culinaria excepcional, con opciones de pago seguras y entrega a domicilio. Utilizando tecnologías como Spring Boot, Auth0 y Envers, desarrollé un backend robusto para la gestión de pedidos, facturación y autenticación de usuarios.
@@ -50,11 +50,12 @@ Backend: Java, Spring Boot, Node.js
 Bases de Datos: SQL, MongoDB
 Control de Versiones: Git, GitHub
 Otras Herramientas: Docker, Postman, AWS
-📬 Contactame
+
+# 📬 Contactame
 Estoy siempre en búsqueda de nuevos proyectos emocionantes. Si tienes una idea o deseas trabajar juntos, no dudes en contactarme.
 
-📧 Email: sacchettibruno03@gmail.com
-🔗 GitHub: https://github.com/brunoSacchetti
-🔗 LinkedIn: https://www.linkedin.com/in/bruno-sacchetti/
+# 📧 Email: sacchettibruno03@gmail.com
+# 🔗 GitHub: https://github.com/brunoSacchetti
+# 🔗 LinkedIn: https://www.linkedin.com/in/bruno-sacchetti/
 
 ¡Gracias por visitar mi portfolio! Si estás interesado en colaborar en algún proyecto o tienes alguna pregunta, no dudes en contactarme. ¡Estoy listo para enfrentar nuevos desafíos!

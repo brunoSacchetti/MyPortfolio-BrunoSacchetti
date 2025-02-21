@@ -54,7 +54,7 @@ Otras Herramientas: Docker, Postman, AWS
 Estoy siempre en búsqueda de nuevos proyectos emocionantes. Si tienes una idea o deseas trabajar juntos, no dudes en contactarme.
 
 📧 Email: sacchettibruno03@gmail.com
-🔗 GitHub: @brunoSacchetti
-🔗 LinkedIn: Bruno Sacchetti
+🔗 GitHub: https://github.com/brunoSacchetti
+🔗 LinkedIn: https://www.linkedin.com/in/bruno-sacchetti/
 
 ¡Gracias por visitar mi portfolio! Si estás interesado en colaborar en algún proyecto o tienes alguna pregunta, no dudes en contactarme. ¡Estoy listo para enfrentar nuevos desafíos!

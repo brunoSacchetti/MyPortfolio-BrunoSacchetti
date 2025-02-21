@@ -12,7 +12,7 @@ Resolver problemas de manera eficiente.
 Desarrollar experiencias de usuario intuitivas.
 Crear soluciones digitales que marquen la diferencia.
 
-#🌟 Proyectos Destacados
+# 🌟Proyectos Destacados
 El Buen Sabor - E-commerce Culinario
 Descripción:
 Una plataforma de e-commerce creada para ofrecer a los usuarios una experiencia culinaria excepcional, con opciones de pago seguras y entrega a domicilio. Utilizando tecnologías como Spring Boot, Auth0 y Envers, desarrollé un backend robusto para la gestión de pedidos, facturación y autenticación de usuarios.
